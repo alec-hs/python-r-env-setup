@@ -1,4 +1,4 @@
-# Python & R Development Environment usinf Anaconda
+# Python & R Development Environment using Anaconda
 
 Repo to setup Python and R environments and commons tools needed.
 
